@@ -1,0 +1,1 @@
+function openBookingPlaceholder(e){if(e)e.preventDefault();const t=document.getElementById('booking');if(t)t.scrollIntoView({behavior:'smooth'});}document.addEventListener('DOMContentLoaded',()=>{document.querySelectorAll('[data-booking-placeholder]').forEach(a=>a.addEventListener('click',openBookingPlaceholder));});
