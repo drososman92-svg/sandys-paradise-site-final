@@ -1,0 +1,3 @@
+WhatsApp|Προσθέστε τον αριθμό WhatsApp
+Τηλέφωνο|Προσθέστε τον αριθμό reception / κρατήσεων
+Email|Προσθέστε το direct email κρατήσεων
