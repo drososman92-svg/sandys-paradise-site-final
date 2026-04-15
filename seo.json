@@ -1,0 +1,35 @@
+{
+  "defaultLang": "en",
+  "languages": [
+    "en",
+    "el",
+    "fr",
+    "it",
+    "de"
+  ],
+  "brand": "Sandy's Paradise Infinity Resort",
+  "pages": {
+    "home": {
+      "en": {
+        "title": "Sandy's Paradise Infinity Resort – Pool Hotel in Perissa Santorini with Parking & Breakfast",
+        "description": "Pool resort in Perissa Santorini with one of the largest swimming pools, lounge bar, breakfast and free parking. Ideal for couples, families and direct bookings."
+      },
+      "el": {
+        "title": "Sandy's Paradise Infinity Resort – Ξενοδοχείο με Πισίνα στην Περίσσα Σαντορίνη με Parking & Πρωινό",
+        "description": "Ξενοδοχείο με πισίνα στην Περίσσα Σαντορίνης με μία από τις μεγαλύτερες πισίνες, lounge bar, πρωινό και δωρεάν parking. Ιδανικό για ζευγάρια, οικογένειες και direct bookings."
+      },
+      "fr": {
+        "title": "Sandy's Paradise Infinity Resort – Hôtel piscine à Perissa Santorin avec parking et petit-déjeuner",
+        "description": "Resort avec piscine à Perissa Santorin avec l’une des plus grandes piscines, lounge bar, petit-déjeuner et parking gratuit. Idéal pour couples, familles et réservations directes."
+      },
+      "it": {
+        "title": "Sandy's Paradise Infinity Resort – Hotel con piscina a Perissa Santorini con parcheggio e colazione",
+        "description": "Pool resort a Perissa Santorini con una delle piscine più grandi, lounge bar, colazione e parcheggio gratuito. Ideale per coppie, famiglie e prenotazioni dirette."
+      },
+      "de": {
+        "title": "Sandy's Paradise Infinity Resort – Pool Hotel in Perissa Santorin mit Parkplatz und Frühstück",
+        "description": "Pool Resort in Perissa Santorin mit einem der größten Pools, Lounge Bar, Frühstück und kostenlosem Parkplatz. Ideal für Paare, Familien und Direktbuchungen."
+      }
+    }
+  }
+}

@@ -1,0 +1,3 @@
+WhatsApp|Add your WhatsApp contact number
+Phone|Add your reception / reservations number
+Email|Add your direct reservations email
